@@ -80,7 +80,10 @@ An insurance company providing tour insurance wanted to predict claim status to 
 
 ## 📈 Key Visualizations
 - 📊 Clustering dendrograms & KMeans elbow plots
+- ![image](https://github.com/user-attachments/assets/7cde5283-815d-4543-902b-9cac9dfcb193)
+
 - 🚦 Confusion matrices, ROC curves for CART, RF, ANN
+- Please refer the pictures for complete images and analysis. 
 - 📉 Feature distributions & pairplots for insurance dataset
 
 ---
